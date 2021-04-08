@@ -1,0 +1,30 @@
+#result_para_tag{
+    background-color: chocolate;
+}
+
+.heading{
+background-color: cornflowerblue;
+color: gold;
+}
+
+.heading_div_2{
+background-color: indigo;
+color: hotpink;
+}
+
+.copy_right_footer{
+    position: fixed;
+    color: plum;
+    bottom: 0px;
+    width:100%;
+    background-color: purple;
+    line-height: 3;
+    text-align: center;
+}
+
+canvas{
+    border: 5px solid white;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px grey;
+    margin-top: 150px;
+}
